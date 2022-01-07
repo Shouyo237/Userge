@@ -51,7 +51,7 @@
 
 ## [Documentation](http://theuserge.tech) 📘
 
-## [Deployment](http://theuserge.tech/deployment) 👷
+## [Deployment](http://Shouyo237/deployment) 👷
 
 ## [Plugins](https://github.com/UsergeTeam/Userge-Plugins) 🔌
 
@@ -66,5 +66,5 @@
 
 ### Copyright & License 👮
 
-* Copyright (C) 2020 - 2022 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
+* Copyright (C) 2020 - 2022 by [UsergeTeam](https:xb//github.com/UsergeTeam) ❤️️
 * Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
