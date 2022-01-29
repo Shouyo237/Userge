@@ -51,7 +51,7 @@
 
 ## [Documentation](http://theuserge.tech) 📘
 
-## [Deployment](http://theuserge.tech/deployment) 👷
+## [Deployment on herkou](https://heroku.com/deploy?template=https://github.com/Shouyo237/HelperScript-V2)👷
 
 ## [Plugins](https://github.com/UsergeTeam/Userge-Plugins) 🔌
 
