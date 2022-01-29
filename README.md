@@ -51,7 +51,7 @@
 
 ## [Documentation](http://theuserge.tech) 📘
 
-## [Deployment](http://Shouyo237/deployment) 👷
+## [Deployment](http://theuserge.tech/deployment) 👷
 
 ## [Plugins](https://github.com/UsergeTeam/Userge-Plugins) 🔌
 
